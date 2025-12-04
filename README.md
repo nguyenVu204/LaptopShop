@@ -72,7 +72,7 @@ hợp để sử dụng thực tế hoặc làm dự án học tập.
 ## 📌 1. Clone dự án
 
 ``` bash
-git clone https://github.com/username/laptopshop.git
+git clone https://github.com/nguyenVu204/LaptopShop.git
 cd laptopshop
 ```
 
