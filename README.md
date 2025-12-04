@@ -9,6 +9,12 @@
 Bao gồm đầy đủ tính năng cho **Khách hàng** và **Quản trị viên**, phù
 hợp để sử dụng thực tế hoặc làm dự án học tập.
 
+Deploy demo: https://laptop-shop-gray.vercel.app/
+Account test:
+- admin@gmail.com | password: 123456
+- user@gmail.com | password: 123456
+
+
 ------------------------------------------------------------------------
 
 ## ✨ Tính năng nổi bật
