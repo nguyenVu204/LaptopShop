@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: 'http://localhost:5000/api', // Địa chỉ Backend
+  baseURL: 'https://laptopshop-api.onrender.com', // Địa chỉ Backend
   headers: {
     'Content-Type': 'application/json',
   },
